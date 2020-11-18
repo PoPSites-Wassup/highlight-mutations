@@ -2,7 +2,9 @@
 
 declare(strict_types=1);
 
-namespace PoPSitesWassup\HighlightMutations\MutationResolvers;
+namespace PoPSitesWassup\HighlightMutations\MutationResolverBridges;
+
+use PoPSitesWassup\HighlightMutations\MutationResolvers\UpdateHighlightMutationResolver;
 
 class UpdateHighlightMutationResolverBridge extends AbstractCreateUpdateHighlightMutationResolverBridge
 {
