@@ -1,4 +1,4 @@
-# Post Mutations
+# Highlight Mutations
 
 [![Build Status][ico-travis]][link-travis]
 [![Quality Score][ico-code-quality]][link-code-quality]
@@ -10,7 +10,7 @@
 [![Total Downloads][ico-downloads]][link-downloads]
 -->
 
-Adds support for highlight-mutations
+Adds support for highlight mutations
 
 ## Install
 
